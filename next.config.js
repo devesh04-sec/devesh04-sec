@@ -8,4 +8,5 @@ const nextConfig = {
 module.exports = withTamagui({
   config: './tamagui.config.ts',
   components: ['tamagui'],
+  appDir: true,
 })(nextConfig)
