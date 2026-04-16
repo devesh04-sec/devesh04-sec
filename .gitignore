@@ -30,4 +30,7 @@ node_modules/
 # Next.js
 next-env.d.ts
 
-.DS_Store.tamagui/
+.DS_Store
+
+# Tamagui build cache
+.tamagui/
